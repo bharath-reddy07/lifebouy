@@ -24,9 +24,9 @@ Insert gif or link to demo
 
 ## Screenshots
 
-![App Screenshot](https://github.com/bharath-reddy07/lifebouy/blob/main/1.png)
+![App Screenshot](/1.png?raw=true)
 - Captive portal
-![App Screenshot](https://github.com/bharath-reddy07/lifebouy/blob/main/2.png)
+![App Screenshot](2.png?rae=true)
 - Website
 ![App Screenshot](https://github.com/bharath-reddy07/lifebouy/blob/main/1.png)
 - Sender module
