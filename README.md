@@ -25,17 +25,13 @@ Insert gif or link to demo
 [Link to Website](https://lifebouy-av6dg9r41-aswarthm.vercel.app/)
 
 ## ScreenShots
-![1](https://github.com/bharath-reddy07/lifebouy/assets/97978349/91ecb5ab-40ed-4fee-9534-b00a56c06ed7)
-<br/>
+![1](https://github.com/bharath-reddy07/lifebouy/assets/97978349/91ecb5ab-40ed-4fee-9534-b00a56c06ed7
 - Website
 ![2](https://github.com/bharath-reddy07/lifebouy/assets/97978349/ecd5d6ed-b53f-4ac7-9237-117d99845dc2)
-<br/>
 - Captive Portal
 ![1](https://github.com/bharath-reddy07/lifebouy/assets/97978349/07369432-7b70-4dad-95d8-01436365b6c4)
-<br/>
 - Reciever
 ![2](https://github.com/bharath-reddy07/lifebouy/assets/97978349/673c6e2d-64b6-46f7-9d41-653a7e46ceb0)
-<br/>
 - Sender
 
 
