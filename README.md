@@ -23,3 +23,8 @@ Insert gif or link to demo
 
 ## Website Link
 [Link to Website](https://lifebouy-av6dg9r41-aswarthm.vercel.app/)
+
+## ScreenShots
+![1](https://github.com/bharath-reddy07/lifebouy/assets/97978349/91ecb5ab-40ed-4fee-9534-b00a56c06ed7)
+![2](https://github.com/bharath-reddy07/lifebouy/assets/97978349/ecd5d6ed-b53f-4ac7-9237-117d99845dc2)
+
