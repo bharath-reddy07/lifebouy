@@ -1,4 +1,3 @@
-
 # LIFEBOUY
 
 This project is built to help people during natural disasters like floods, earthquakes,etc. We collect data from the users with the help of a captive portal, this data is transmitted back to the host node via Bluetooth. The host node then uploads this data to a cloud database.We also developed a website that provided a graphic visualization of the data collected. The use case is that in natural disasters like flood, all communication infrastructure breaks down, leaving
@@ -22,13 +21,5 @@ Insert gif or link to demo
 
 
 
-## Screenshots
-
-![App Screenshot](/1.png?raw=true)
-- Captive portal
-![App Screenshot](2.png?rae=true)
-- Website
-![App Screenshot](https://github.com/bharath-reddy07/lifebouy/blob/main/1.png)
-- Sender module
-![App Screenshot](https://github.com/bharath-reddy07/lifebouy/blob/main/1.png)
-- Reciver module
+## Website Link
+[Link to Website](https://lifebouy-av6dg9r41-aswarthm.vercel.app/)
