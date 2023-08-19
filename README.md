@@ -17,6 +17,9 @@ Insert gif or link to demo
 - The data (user location and status) goes through multiple devices before arriving at the host devices
 - All the data can be monitored at the rescue station through an interactive dashboard
 - System is fully self-sustained and doesn’t require any external infrastructure like Internet or Cellular Network
+- Flowchart
+  
+![3](https://github.com/bharath-reddy07/lifebouy/assets/97978349/0274bbc8-d3e1-463e-b064-12107e585b26)
 
 
 
